@@ -6,6 +6,9 @@
 	"repository": {
 		"type":"git","url":"http://github.com/theincredibleguy/vizdiff.git"
 	},
+	"dependencies":{
+
+	},
 	"scripts":{
 		"test":"vows --spec"
 	}
