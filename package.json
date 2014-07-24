@@ -1,0 +1,15 @@
+{
+	"name":"vizdiff",
+	"description":"node module for visualization diff",
+	"author":"Sachin Nair<rsachinnair@gmail.com>",
+	"repository": {
+		"type":"git","url":"http://github.com/theincredibleguy/vizdiff.git"
+	},
+	"dependencies":{
+		"vows":""
+	},
+	"scripts":{
+		"test":"vows --spec"
+	}
+}
+
